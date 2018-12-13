@@ -8,7 +8,7 @@ import math
 
 class TSD305 :
 	# TSD305 device address
-	_TSD305_ADDR = 0x1e #0b0110000
+	_TSD305_ADDR = 0x1e #0b0011110
 	
 	# TSD305 device commands
 	_TSD305_CONVERT_ADCS_COMMAND = 0xaf
